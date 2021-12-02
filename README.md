@@ -27,11 +27,11 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 ## Author
 
-👤 **Ijay Abby**
+👤 **Dominic Bor**
 
-- Github: [@githubhandle](https://github.com/IjayAbby)
-- Twitter: [@twitterhandle](https://twitter.com/Ijay_js)
-- Linkedin: [linkedin](https://www.linkedin.com/in/ijayabby4/)
+- Github: [@githubhandle](https://github.com/sirbor)
+- Twitter: [@twitterhandle](https://twitter.com/sirbor_)
+- Linkedin: [linkedin](https://www.linkedin.com/in/dominicbor/)
 
 ## 🤝 Contributing
 
@@ -39,7 +39,7 @@ Contributions, issues and feature requests are always welcome!
 
 I love meeting other developers, especially ones that give me advice on how to improve my work.
 
-Feel free to check the [issues page](https://github.com/IjayAbby/Weather-app/issues).
+Feel free to check the [issues page](https://github.com/sirbor/Weather-app/issues).
 
 ### How to Contribute
 
@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 - git clone https://github.com/your_username/Weather-app
 - git checkout development
 - git checkout -b branch name
-- git remote add upstream https://github.com/IjayAbby/Weather-app
+- git remote add upstream https://github.com/sirbor/Weather-app
 - git pull upstream development
 - git commit -m "commit message"
 - git push -u origin HEAD
