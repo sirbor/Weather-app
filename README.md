@@ -31,7 +31,7 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 - Github: [@sirbor](https://github.com/sirbor)
 - Twitter: [@sirbor_](https://twitter.com/sirbor_)
-- Linkedin: [linkedin](https://www.linkedin.com/in/dominicbor/)
+- Linkedin: [dominicbor](https://www.linkedin.com/in/dominicbor/)
 
 ## 🤝 Contributing
 

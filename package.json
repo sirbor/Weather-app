@@ -9,6 +9,7 @@
     "start": "webpack serve --mode development --open",
     "watch": "webpack --watch"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",

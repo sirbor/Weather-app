@@ -86,6 +86,7 @@ body {
   position: relative;
 }
 
+
 .loading::after {
   visibility: visible;
   content: "Loading content...";
