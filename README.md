@@ -29,8 +29,8 @@ This project is built by Vanilla Javascript, html and css.Create a weather forec
 
 👤 **Dominic Bor**
 
-- Github: [@githubhandle](https://github.com/sirbor)
-- Twitter: [@twitterhandle](https://twitter.com/sirbor_)
+- Github: [@sirbor](https://github.com/sirbor)
+- Twitter: [@sirbor_](https://twitter.com/sirbor_)
 - Linkedin: [linkedin](https://www.linkedin.com/in/dominicbor/)
 
 ## 🤝 Contributing
@@ -67,4 +67,4 @@ Finally, if you've read this far, don't forget to give this repo a ⭐️. They'
 
 ## 📝 License
 
-This project is [MIT](https://github.com/IjayAbby/Weather-app/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/sirbor/Weather-app/blob/main/LICENSE) licensed.
